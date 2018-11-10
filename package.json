@@ -1,0 +1,27 @@
+{
+  "name": "builder-t",
+  "version": "0.0.2",
+  "description": "generate string representation with template feature",
+  "main": "index.js",
+  "author": {
+    "name": "Igor ESCHALIER",
+    "email": "igor.eschalier@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "template",
+    "generate",
+    "node",
+    "html",
+    "string",
+    "builder"
+  ],
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/ieschalier/template-builder.git"
+  },
+  "homepage": "https://github.com/ieschalier/template-builder",
+  "bugs": {
+    "url": "https://github.com/ieschalier/template-builder/issues/new"
+  }
+}

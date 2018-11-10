@@ -1,0 +1,12 @@
+{
+  "name": "generator-example",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "generate": "node index.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "builder-t": "^0.0.2"
+  }
+}
